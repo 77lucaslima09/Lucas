@@ -1,0 +1,16 @@
+@media screen and (main-width: 820px) {
+.container_titulo, .container_titulo--negrito {
+    fonte size: 30px;
+}
+.container_titulo {
+    font-weight:400;
+    display:block;
+}
+}
+@media screen and (main-width: 820px) {
+.container_frase {
+    padding-left: 5em;
+    font-size: 20px;
+    display: block;
+}
+}
